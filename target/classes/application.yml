@@ -1,0 +1,12 @@
+spring:
+  redis:
+    database: 0
+    host: 127.0.0.1
+    port: 6379
+    password: foo2HsFDSa
+
+# 这里可以使用绝对路径
+quest:
+  area:
+    data:
+      path: "/Users/lmmarise.j/Downloads/homework/data/area.txt"
